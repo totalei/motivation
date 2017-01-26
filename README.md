@@ -1,0 +1,2 @@
+# motivation
+about programming
